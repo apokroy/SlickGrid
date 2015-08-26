@@ -2,6 +2,8 @@
 
 Find documentation and examples in [the wiki](https://github.com/apokroy/SlickGrid/wiki).
 
+This is a fork of original SlickGrid (https://github.com/mleibman/SlickGrid)
+
 ## SlickGrid is an advanced JavaScript grid/spreadsheet component
 
 Some highlights:
